@@ -1,0 +1,24 @@
+@font-face{
+  font-family: 'momo';
+  src: url('momo.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'fanzheng';
+  src: url('fanzheng.TTF');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'tengxiang';
+  src: url('tengxiang.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'youlang';
+  src: url('youlang.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
